@@ -39,4 +39,7 @@
 
 ![Contact Books](Screenshots/contact_book_2.png)
 
+2)Word Counter from Text File
+(Count number of words, lines, and characters.)
 
+![Counter](Screenshots/line_word_char.png)
