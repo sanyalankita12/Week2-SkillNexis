@@ -47,3 +47,39 @@
 3)JSON File Reader
 (Load JSON data & print formatted output.)
 ![JSON Reader](Screenshots/json_reader.png)
+
+---
+# MINI PROJECT
+- This Mini Project is a "STUDENT MANAGEMENT SYSTEM" which stores students data like name ,roll no. , and marks .
+- It has CRUD Operations in it.
+- Save changes permanently to file.
+
+---
+## Working
+- The program uses a CSV file (students.csv) as a simple database.
+- Add student appends the data in the file.
+- Search functions finds the data in the file.
+- The delete functions removes the data from the file.
+
+---
+
+##  Output:-
+![Mini Project](Screenshots/mini_project_1.png)
+![Mini Project](Screenshots/mini_project_2.png)
+![Mini Project](Screenshots/mini_project_3.png)
+![Mini Project](Screenshots/mini_project_4.png)
+
+---
+
+## Learning Outcomes
+- File Input/Output (I/O) operations in Python.
+- Reading from and writing to CSV files.
+- Implementing CRUD operations.
+- Building a menu-driven console application.
+- Working with functions and loops.
+
+---
+Here it ends my Week 2 Task For Skill Nexis.
+
+## Author:
+-Ankita Sanyal
