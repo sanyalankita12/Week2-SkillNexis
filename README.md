@@ -43,3 +43,7 @@
 (Count number of words, lines, and characters.)
 
 ![Counter](Screenshots/line_word_char.png)
+
+3)JSON File Reader
+(Load JSON data & print formatted output.)
+![JSON Reader](Screenshots/json_reader.png)
